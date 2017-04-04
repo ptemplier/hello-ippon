@@ -13,5 +13,6 @@ public class HelloIppon
 		System.out.println("  | |\/| |/ _ \ / _` | |  _| |/ _ \/ _` |");
 		System.out.println("  | |  | | (_) | (_| | | | | |  __/ (_| |");
 		System.out.println("  |_|  |_|\___/ \__,_|_|_| |_|\___|\__,_|");
+		System.out.println("  ");
         }
 }
